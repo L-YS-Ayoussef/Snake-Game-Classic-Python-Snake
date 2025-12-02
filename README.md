@@ -59,7 +59,7 @@ You control a snake that moves around the screen, trying to eat blue food dots. 
    python3 -m venv venv
   source venv/bin/activate
   
-4. **Run the app**
+3. **Run the app**
 
    ```bash
    python main.py
