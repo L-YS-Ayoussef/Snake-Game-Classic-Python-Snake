@@ -3,7 +3,7 @@ Classic Snake in Python with High Score Saving
 
 ## 🌍 Overview  
 This project is a classic **Snake** game implemented in Python.  
-You control a snake that moves around the screen, trying to eat blue food dots. Each time the snake eats, it grows longer and your score increases. If the snake hits a wall (or itself, if you added that logic), the game resets and the score returns to 0. The **highest score** is saved in a text file so you can try to beat your personal best.
+You control a snake that moves around the screen, trying to eat blue food dots. Each time the snake eats, it grows longer and your score increases. If the snake hits a wall (or itself), the game resets and the score returns to 0. The **highest score** is saved in a text file so you can try to beat your personal best.
 
 ---
 
